@@ -1,6 +1,6 @@
 # Portfolio Website — Deondre Williams
 
-This project showcases the personal portfolio of **Deondre Williams**, a web designer and developer. 
+This project showcases the personal portfolio and my skills, as a web designer and developer. 
 The portfolio highlights professional experience, education, technical skills, personal mission, and contact information.  
 
 ---
